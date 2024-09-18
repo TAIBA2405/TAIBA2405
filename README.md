@@ -5,7 +5,7 @@
   <img alt="Coding" width="400" src="https://camo.githubusercontent.com/862f48a9043e8165541b09a5a64d969f1c155e0768a90e7a3d56f36efd8a82b3/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966" />
 </p>
 
-- 🌱 I’m currently learning **Full Stack Development** languages like Java, .NET, and more.
+- 🌱 I’m currently learning **Full Stack Development** .
 - 👨‍💻 Check out my projects on [LinkedIn](https://www.linkedin.com/in/taiba-khan-faridi-576860172/)
 - 💬 Feel free to ask me about **HTML, CSS, JavaScript, and basics of Python and MySQL.**
 - 📫 Reach out to me at: **[taibakfaridi@gmail.com](mailto:taibakfaridi@gmail.com)**
