@@ -1,26 +1,30 @@
-<h1 align="center">Hi 👋, I'm Taiba Khan Faridi</h1>
-<h3 align="center">Aspiring Data Analyst | Engineering Student from India</h3>
+<h1 align="center">Hello, I'm Taiba Khan Faridi</h1>
+<h3 align="center">Aspiring Data Analyst | Engineering Student | Passionate Learner</h3>
 
 <p align="center">
-  <img alt="Data Analytics" width="400" src="https://camo.githubusercontent.com/92b1e576828ee85fc0d3fd9a3df09c28ba7e88ff7182e8f3c86db16b9317c5b5/68747470733a2f2f7777772e66726565636f646563616d702e6f72672f6d656469612f66726565636f646563616d702f756e6b6e6f776e2d63686172742d73656e642d696e2d64616e63696e672e676966" />
+  <img alt="Data Analytics" width="400" src="https://miro.medium.com/v2/resize:fit:1200/1*fhwD4yIWkIWnYTXbqUga8g.png" />
 </p>
 
-- 🌱 I’m currently learning **Data Analytics**.
-- 📊 Exploring **Data Visualization, SQL, Python, and Statistics**.
-- 📚 Working on projects related to **social media sentiment analysis, data-driven decision making**, and more.
-- 👨‍💻 Check out my projects on [LinkedIn](https://www.linkedin.com/in/taiba-khan-faridi-576860172/)
-- 💬 Ask me about **Data Analysis, Data Visualization, Python for Data Science, and SQL.**
-- 📫 Reach out to me at: **[taibakfaridi@gmail.com](mailto:taibakfaridi@gmail.com)**
+<p align="center">
+  I am an enthusiastic and dedicated engineering student with a growing passion for data analytics. I love diving into data to uncover trends, insights, and patterns that drive informed decision-making.
+</p>
 
-<h3 align="center">Connect with me:</h3>
+- 🌱 Currently mastering **Data Analytics, Python for Data Science, SQL, and Statistics**.
+- 📊 Working on projects focused on **social media sentiment analysis, data visualization**, and **data-driven insights**.
+- 💼 Actively exploring opportunities in **data analysis** and **business intelligence**.
+- 👨‍💻 Check out my projects on [LinkedIn](https://www.linkedin.com/in/taiba-khan-faridi-576860172/).
+- 💬 I can help with topics such as **data visualization, SQL queries, exploratory data analysis, and Python programming**.
+- 📫 Feel free to connect: **[taibakfaridi@gmail.com](mailto:taibakfaridi@gmail.com)**.
+
+<h3 align="center">Let's Connect:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/taiba-khan-faridi-576860172/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Taiba Khan Faridi" height="30" width="30" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Taiba Khan Faridi LinkedIn" height="30" width="30" />
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h3 align="center">Technical Skills & Tools</h3>
+<p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a> 
@@ -34,7 +38,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> 
   </a> 
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> 
+    <img src="https://www.r-project.org/Rlogo.png" alt="R Programming" width="40" height="40"/> 
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/> 
@@ -44,8 +48,7 @@
   </a>
 </p>
 
-
-<h3 align="center">GitHub Stats:</h3>
+<h3 align="center">GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TAIBA2405&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
@@ -53,7 +56,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAIBA2405" alt="GitHub Streak" />
 </p>
-
 
 
 
